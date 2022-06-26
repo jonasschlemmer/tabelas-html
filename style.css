@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    margin-top: 30px;
+}
+
+td {
+    width: 100px;
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+a {
+    font-size: 20px;
+    margin: 30px;
+}
+
+#ex2-table {
+    width: 700px;
+    height: 700px;
+}
+
+#ex2-topo {
+    height: 100px;
+}
+
+#ex2-menu {
+    width: 200px;
+}
+
+#ex2-conteudo {
+    width: 500px;
+}
+
+#ex2-rodape {
+    height: 50px;
+}
+
+.ex3 {
+    margin: 20px;
+    display: inline-block;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+}
+
+.border {
+    border: 2px dashed red;
+}
+
+.border-td {
+    border: 2px dashed blue;
+}
